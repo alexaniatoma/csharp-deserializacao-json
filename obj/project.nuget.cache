@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GEU2eQG6b2zYWc1q0CF/ZgM2W7naiey2wMnKUuuCo2luZ5WFMC48hFhus0WQaUouPNGMXQG5RtdMbLB11jDz/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexa\\OneDrive\\Área de Trabalho\\deserializando-um-objeto\\deserializando-um-objeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\alexa\OneDrive\Área de Trabalho\deserializando-um-objeto\bin\Debug\net8.0\deserializando-um-objeto.exe
+C:\Users\alexa\OneDrive\Área de Trabalho\deserializando-um-objeto\bin\Debug\net8.0\deserializando-um-objeto.deps.json
+C:\Users\alexa\OneDrive\Área de Trabalho\deserializando-um-objeto\bin\Debug\net8.0\deserializando-um-objeto.runtimeconfig.json
+C:\Users\alexa\OneDrive\Área de Trabalho\deserializando-um-objeto\bin\Debug\net8.0\deserializando-um-objeto.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\deserializando-um-objeto\bin\Debug\net8.0\deserializando-um-objeto.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\deserializando-um-objeto\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\deserializando-um-objeto\obj\Debug\net8.0\deserializando-um-objeto.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\deserializando-um-objeto\obj\Debug\net8.0\deserializando-um-objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Área de Trabalho\deserializando-um-objeto\obj\Debug\net8.0\deserializando-um-objeto.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\deserializando-um-objeto\obj\Debug\net8.0\deserializando-um-objeto.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Área de Trabalho\deserializando-um-objeto\obj\Debug\net8.0\deserializando-um-objeto.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\deserializando-um-objeto\obj\Debug\net8.0\deserial.57C2336C.Up2Date
+C:\Users\alexa\OneDrive\Área de Trabalho\deserializando-um-objeto\obj\Debug\net8.0\deserializando-um-objeto.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\deserializando-um-objeto\obj\Debug\net8.0\refint\deserializando-um-objeto.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\deserializando-um-objeto\obj\Debug\net8.0\deserializando-um-objeto.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\deserializando-um-objeto\obj\Debug\net8.0\deserializando-um-objeto.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\deserializando-um-objeto\obj\Debug\net8.0\ref\deserializando-um-objeto.dll
